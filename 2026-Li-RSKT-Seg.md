@@ -1,7 +1,6 @@
 # Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing
 
-## OBRSISBench：
-## 实验目的
+## OBRSISBench目的
 以前不同论文使用的数据集和实验设置不统一，需要建立一个统一的遥感开放词汇分割测试环境
 
 ## 实验设置
@@ -21,7 +20,7 @@
 ## 实验目的
 普通自然图像开放词汇分割模型 vs 已有遥感开放词汇分割模型
 
-## 实验比较方法
+## 结果比较方法
 ### 普通方法
 - SCAN
 - SAN
